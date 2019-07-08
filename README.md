@@ -1,11 +1,11 @@
-# laser-pattern
+git@github.com:hos-b/laser-pattern.git# laser-pattern
 modified opencv pattern tools for laser cutters
 
 ## Use
 
 Usage example:
 ```bash
-python gen_pattern.py -o out.svg -r 11 -c 8 -T circles -s 20.0 -R 5.0 -u mm -w 216 -h 279
+python gen_pattern_e.py -o out.svg -r 11 -c 8 -T circles -s 20.0 -R 5.0 -u mm -w 216 -h 279
 ```
 + -o, --output - output file (default out.svg)
 + -r, --rows - pattern rows (default 11)
