@@ -1,4 +1,4 @@
-git@github.com:hos-b/laser-pattern.git# laser-pattern
+# laser-pattern
 modified opencv pattern tools for laser cutters
 
 ## Use
