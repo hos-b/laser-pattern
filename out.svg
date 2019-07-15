@@ -1,163 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
-<svg style="stroke-linejoin:round; stroke:black; stroke-width:0.5pt; text-anchor:middle; fill:none" xmlns="http://www.w3.org/2000/svg" height="400mm" width="400mm" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="Helvetica, Arial, FreeSans, Sans, sans, sans-serif" viewBox="0 0 400 400">
+<svg style="stroke-linejoin:round; stroke:black; stroke-width:0.5pt; text-anchor:middle; fill:none" xmlns="http://www.w3.org/2000/svg" height="400mm" width="600mm" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="Helvetica, Arial, FreeSans, Sans, sans, sans-serif" viewBox="0 0 600 400">
 
 <g>
 
-<circle stroke="black" cx="25.0" r="5.0" cy="375.0" fill="none" />
+<circle stroke="black" cx="44.0" r="20.0" cy="356.0" fill="none" />
 
-<circle stroke="black" cx="75.0" r="5.0" cy="375.0" fill="none" />
+<circle stroke="black" cx="132.0" r="20.0" cy="356.0" fill="none" />
 
-<circle stroke="black" cx="125.0" r="5.0" cy="375.0" fill="none" />
+<circle stroke="black" cx="220.0" r="20.0" cy="356.0" fill="none" />
 
-<circle stroke="black" cx="175.0" r="5.0" cy="375.0" fill="none" />
+<circle stroke="black" cx="308.0" r="20.0" cy="356.0" fill="none" />
 
-<circle stroke="black" cx="225.0" r="5.0" cy="375.0" fill="none" />
+<circle stroke="black" cx="396.0" r="20.0" cy="356.0" fill="none" />
 
-<circle stroke="black" cx="275.0" r="5.0" cy="375.0" fill="none" />
+<circle stroke="black" cx="88.0" r="20.0" cy="312.0" fill="none" />
 
-<circle stroke="black" cx="325.0" r="5.0" cy="375.0" fill="none" />
+<circle stroke="black" cx="176.0" r="20.0" cy="312.0" fill="none" />
 
-<circle stroke="black" cx="50.0" r="5.0" cy="350.0" fill="none" />
+<circle stroke="black" cx="264.0" r="20.0" cy="312.0" fill="none" />
 
-<circle stroke="black" cx="100.0" r="5.0" cy="350.0" fill="none" />
+<circle stroke="black" cx="352.0" r="20.0" cy="312.0" fill="none" />
 
-<circle stroke="black" cx="150.0" r="5.0" cy="350.0" fill="none" />
+<circle stroke="black" cx="440.0" r="20.0" cy="312.0" fill="none" />
 
-<circle stroke="black" cx="200.0" r="5.0" cy="350.0" fill="none" />
+<circle stroke="black" cx="44.0" r="20.0" cy="268.0" fill="none" />
 
-<circle stroke="black" cx="250.0" r="5.0" cy="350.0" fill="none" />
+<circle stroke="black" cx="132.0" r="20.0" cy="268.0" fill="none" />
 
-<circle stroke="black" cx="300.0" r="5.0" cy="350.0" fill="none" />
+<circle stroke="black" cx="220.0" r="20.0" cy="268.0" fill="none" />
 
-<circle stroke="black" cx="350.0" r="5.0" cy="350.0" fill="none" />
+<circle stroke="black" cx="308.0" r="20.0" cy="268.0" fill="none" />
 
-<circle stroke="black" cx="25.0" r="5.0" cy="325.0" fill="none" />
+<circle stroke="black" cx="396.0" r="20.0" cy="268.0" fill="none" />
 
-<circle stroke="black" cx="75.0" r="5.0" cy="325.0" fill="none" />
+<circle stroke="black" cx="88.0" r="20.0" cy="224.0" fill="none" />
 
-<circle stroke="black" cx="125.0" r="5.0" cy="325.0" fill="none" />
+<circle stroke="black" cx="176.0" r="20.0" cy="224.0" fill="none" />
 
-<circle stroke="black" cx="175.0" r="5.0" cy="325.0" fill="none" />
+<circle stroke="black" cx="264.0" r="20.0" cy="224.0" fill="none" />
 
-<circle stroke="black" cx="225.0" r="5.0" cy="325.0" fill="none" />
+<circle stroke="black" cx="352.0" r="20.0" cy="224.0" fill="none" />
 
-<circle stroke="black" cx="275.0" r="5.0" cy="325.0" fill="none" />
+<circle stroke="black" cx="440.0" r="20.0" cy="224.0" fill="none" />
 
-<circle stroke="black" cx="325.0" r="5.0" cy="325.0" fill="none" />
+<circle stroke="black" cx="44.0" r="20.0" cy="180.0" fill="none" />
 
-<circle stroke="black" cx="50.0" r="5.0" cy="300.0" fill="none" />
+<circle stroke="black" cx="132.0" r="20.0" cy="180.0" fill="none" />
 
-<circle stroke="black" cx="100.0" r="5.0" cy="300.0" fill="none" />
+<circle stroke="black" cx="220.0" r="20.0" cy="180.0" fill="none" />
 
-<circle stroke="black" cx="150.0" r="5.0" cy="300.0" fill="none" />
+<circle stroke="black" cx="308.0" r="20.0" cy="180.0" fill="none" />
 
-<circle stroke="black" cx="200.0" r="5.0" cy="300.0" fill="none" />
+<circle stroke="black" cx="396.0" r="20.0" cy="180.0" fill="none" />
 
-<circle stroke="black" cx="250.0" r="5.0" cy="300.0" fill="none" />
+<circle stroke="black" cx="88.0" r="20.0" cy="136.0" fill="none" />
 
-<circle stroke="black" cx="300.0" r="5.0" cy="300.0" fill="none" />
+<circle stroke="black" cx="176.0" r="20.0" cy="136.0" fill="none" />
 
-<circle stroke="black" cx="350.0" r="5.0" cy="300.0" fill="none" />
+<circle stroke="black" cx="264.0" r="20.0" cy="136.0" fill="none" />
 
-<circle stroke="black" cx="25.0" r="5.0" cy="275.0" fill="none" />
+<circle stroke="black" cx="352.0" r="20.0" cy="136.0" fill="none" />
 
-<circle stroke="black" cx="75.0" r="5.0" cy="275.0" fill="none" />
+<circle stroke="black" cx="440.0" r="20.0" cy="136.0" fill="none" />
 
-<circle stroke="black" cx="125.0" r="5.0" cy="275.0" fill="none" />
+<circle stroke="black" cx="44.0" r="20.0" cy="92.0" fill="none" />
 
-<circle stroke="black" cx="175.0" r="5.0" cy="275.0" fill="none" />
+<circle stroke="black" cx="132.0" r="20.0" cy="92.0" fill="none" />
 
-<circle stroke="black" cx="225.0" r="5.0" cy="275.0" fill="none" />
+<circle stroke="black" cx="220.0" r="20.0" cy="92.0" fill="none" />
 
-<circle stroke="black" cx="275.0" r="5.0" cy="275.0" fill="none" />
+<circle stroke="black" cx="308.0" r="20.0" cy="92.0" fill="none" />
 
-<circle stroke="black" cx="325.0" r="5.0" cy="275.0" fill="none" />
+<circle stroke="black" cx="396.0" r="20.0" cy="92.0" fill="none" />
 
-<circle stroke="black" cx="50.0" r="5.0" cy="250.0" fill="none" />
+<circle stroke="black" cx="88.0" r="20.0" cy="48.0" fill="none" />
 
-<circle stroke="black" cx="100.0" r="5.0" cy="250.0" fill="none" />
+<circle stroke="black" cx="176.0" r="20.0" cy="48.0" fill="none" />
 
-<circle stroke="black" cx="150.0" r="5.0" cy="250.0" fill="none" />
+<circle stroke="black" cx="264.0" r="20.0" cy="48.0" fill="none" />
 
-<circle stroke="black" cx="200.0" r="5.0" cy="250.0" fill="none" />
+<circle stroke="black" cx="352.0" r="20.0" cy="48.0" fill="none" />
 
-<circle stroke="black" cx="250.0" r="5.0" cy="250.0" fill="none" />
-
-<circle stroke="black" cx="300.0" r="5.0" cy="250.0" fill="none" />
-
-<circle stroke="black" cx="350.0" r="5.0" cy="250.0" fill="none" />
-
-<circle stroke="black" cx="25.0" r="5.0" cy="225.0" fill="none" />
-
-<circle stroke="black" cx="75.0" r="5.0" cy="225.0" fill="none" />
-
-<circle stroke="black" cx="125.0" r="5.0" cy="225.0" fill="none" />
-
-<circle stroke="black" cx="175.0" r="5.0" cy="225.0" fill="none" />
-
-<circle stroke="black" cx="225.0" r="5.0" cy="225.0" fill="none" />
-
-<circle stroke="black" cx="275.0" r="5.0" cy="225.0" fill="none" />
-
-<circle stroke="black" cx="325.0" r="5.0" cy="225.0" fill="none" />
-
-<circle stroke="black" cx="50.0" r="5.0" cy="200.0" fill="none" />
-
-<circle stroke="black" cx="100.0" r="5.0" cy="200.0" fill="none" />
-
-<circle stroke="black" cx="150.0" r="5.0" cy="200.0" fill="none" />
-
-<circle stroke="black" cx="200.0" r="5.0" cy="200.0" fill="none" />
-
-<circle stroke="black" cx="250.0" r="5.0" cy="200.0" fill="none" />
-
-<circle stroke="black" cx="300.0" r="5.0" cy="200.0" fill="none" />
-
-<circle stroke="black" cx="350.0" r="5.0" cy="200.0" fill="none" />
-
-<circle stroke="black" cx="25.0" r="5.0" cy="175.0" fill="none" />
-
-<circle stroke="black" cx="75.0" r="5.0" cy="175.0" fill="none" />
-
-<circle stroke="black" cx="125.0" r="5.0" cy="175.0" fill="none" />
-
-<circle stroke="black" cx="175.0" r="5.0" cy="175.0" fill="none" />
-
-<circle stroke="black" cx="225.0" r="5.0" cy="175.0" fill="none" />
-
-<circle stroke="black" cx="275.0" r="5.0" cy="175.0" fill="none" />
-
-<circle stroke="black" cx="325.0" r="5.0" cy="175.0" fill="none" />
-
-<circle stroke="black" cx="50.0" r="5.0" cy="150.0" fill="none" />
-
-<circle stroke="black" cx="100.0" r="5.0" cy="150.0" fill="none" />
-
-<circle stroke="black" cx="150.0" r="5.0" cy="150.0" fill="none" />
-
-<circle stroke="black" cx="200.0" r="5.0" cy="150.0" fill="none" />
-
-<circle stroke="black" cx="250.0" r="5.0" cy="150.0" fill="none" />
-
-<circle stroke="black" cx="300.0" r="5.0" cy="150.0" fill="none" />
-
-<circle stroke="black" cx="350.0" r="5.0" cy="150.0" fill="none" />
-
-<circle stroke="black" cx="25.0" r="5.0" cy="125.0" fill="none" />
-
-<circle stroke="black" cx="75.0" r="5.0" cy="125.0" fill="none" />
-
-<circle stroke="black" cx="125.0" r="5.0" cy="125.0" fill="none" />
-
-<circle stroke="black" cx="175.0" r="5.0" cy="125.0" fill="none" />
-
-<circle stroke="black" cx="225.0" r="5.0" cy="125.0" fill="none" />
-
-<circle stroke="black" cx="275.0" r="5.0" cy="125.0" fill="none" />
-
-<circle stroke="black" cx="325.0" r="5.0" cy="125.0" fill="none" />
+<circle stroke="black" cx="440.0" r="20.0" cy="48.0" fill="none" />
 
 </g>
 

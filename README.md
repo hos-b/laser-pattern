@@ -5,7 +5,7 @@ modified opencv pattern tools for laser cutters
 
 Usage example:
 ```bash
-python gen_pattern_e.py -o out.svg -r 11 -c 8 -T circles -s 20.0 -R 5.0 -u mm -w 216 -h 279
+python gen_pattern.py -o out.svg -r 8 -c 6 -T acircles -s 42 -R 2.1 -u mm -w 600 -h 400
 ```
 + -o, --output - output file (default out.svg)
 + -r, --rows - pattern rows (default 11)
